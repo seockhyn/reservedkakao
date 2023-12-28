@@ -1,0 +1,7 @@
+	
+https://example.com/oauth
+
+https://kauth.kakao.com/oauth/authorize?client_id=c215564dd1ad80a0e8aadf1a7892f041&redirect_uri=https://example.com/oauth&response_type=code 
+
+
+https://kauth.kakao.com/oauth/authorize?client_id=c215564dd1ad80a0e8aadf1a7892f041&redirect_uri=https://example.com/oauth&response_type=code&scope=talk_message,friends
